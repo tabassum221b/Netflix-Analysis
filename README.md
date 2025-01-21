@@ -2,7 +2,6 @@
 
 This project explores how my family uses their Netflix account, identifying patterns in viewing habits, binge-watching tendencies, favorite shows, and the effectiveness of Netflix messages. The analysis dives into user behavior and highlights actionable insights.
 
----
 
 ## Motivation
 
@@ -14,7 +13,6 @@ Have you ever wondered how each family member uses a family Netflix account?
 
 This analysis answers all of these questions and more, offering actionable insights for optimizing user experiences and making informed decisions about profile management.
 
----
 
 ## Key Insights
 
@@ -26,7 +24,6 @@ This analysis answers all of these questions and more, offering actionable insig
 _Left: Viewing time by profile | Right: Viewing time by user_  
 ![Viewing Time Pie Charts](visualization/viewing_time.png)
 
----
 
 ### 2. Daily Viewing Patterns  
 
@@ -37,7 +34,6 @@ When it comes to daily viewing:
 _Box plot showing daily viewing time distribution per user._  
 ![Daily Viewing Box Plot](visualization/daily_viewing_time_distribution.png)
 
----
 
 ### 3. Who’s the biggest binge-watcher?  
 - **Nishat** is the family’s biggest binge-watcher, with over 40 binge-watching days recorded.  
@@ -47,7 +43,6 @@ _Box plot showing daily viewing time distribution per user._
 _Bar chart showing the number of binge-watching days for each user._  
 ![Binge-Watching Days Bar Chart](visualization/binge_watching_days_by_user.png)
 
----
 
 ### 4. Which shows are universally loved across the family?  
 - **Gilmore Girls** stands out as the most loved show, watched consistently across multiple profiles.  
@@ -56,7 +51,6 @@ _Bar chart showing the number of binge-watching days for each user._
 _Bar chart showing favorite shows by user | Bar chart showing binge-watched shows by users._  
 ![Favourite Shows](visualization/top_5_favourite_shows_for_each_user.png)
 
----
 
 ### 5. Do Netflix messages actually influence users to watch more?  
 - **Nishat** showed the highest engagement with Netflix messages, with 1.2% of their views influenced by these recommendations.  
@@ -66,7 +60,6 @@ _Bar chart showing favorite shows by user | Bar chart showing binge-watched show
 _Bar Chart: Click-Through Rate (CTR) by Profile | Bar Chart: Influence of Messages on Total Views._  
 ![Message Influence](visualization/influence_of_messages.png)
 
----
 
 ## Tools and Technologies
 
