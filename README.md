@@ -48,7 +48,7 @@ _Bar chart showing the number of binge-watching days for each user._
 - **Gilmore Girls** stands out as the most loved show, watched consistently across multiple profiles.  
 - It was mentioned by family members as a relaxing, feel-good show.  
 
-_Bar chart showing favorite shows by user | Bar chart showing binge-watched shows by users._  
+_Bar chart showing favorite shows by user_  
 ![Favourite Shows](visualization/top_5_favourite_shows_for_each_user.png)
 
 
