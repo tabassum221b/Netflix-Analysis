@@ -65,4 +65,8 @@ _Bar Chart: Click-Through Rate (CTR) by Profile | Bar Chart: Influence of Messag
 
 - **Python:** For data manipulation and analysis.  
 - **Pandas:** To group, aggregate, and filter data.  
-- **Matplotlib & Seaborn:** For static visualizations.  
+- **Matplotlib & Seaborn:** For static visualizations.
+
+## Visualizations
+
+For a detailed walkthrough of all visualizations and their insights, see the [Visualizations README](visualization/README.md).
