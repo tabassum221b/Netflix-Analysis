@@ -24,7 +24,7 @@ This analysis answers all of these questions and more, offering actionable insig
 - **Reshad's Profile:** Minimal activity, making it a candidate for reassignment to **Fairuj** for improved user experience.  
 
 _Left: Viewing time by profile | Right: Viewing time by user_  
-![Viewing Time Pie Charts](path/to/viewing_time_pie_charts.png)
+![Viewing Time Pie Charts](visualization/viewing_time.png)
 
 ---
 
