@@ -35,7 +35,7 @@ When it comes to daily viewing:
 - **Reshad** and **Reza** show minimal engagement, rarely exceeding 1 hour/day.  
 
 _Box plot showing daily viewing time distribution per user._  
-![Daily Viewing Box Plot](path/to/daily_viewing_box_plot.png)
+![Daily Viewing Box Plot](visualization/daily_viewing_time_distribution.png)
 
 ---
 
@@ -45,7 +45,7 @@ _Box plot showing daily viewing time distribution per user._
 - The most binge-watched shows include **Gilmore Girls**, **The Big Bang Theory**, and **Young Sheldon**, which are enjoyed across multiple profiles.  
 
 _Bar chart showing the number of binge-watching days for each user._  
-![Binge-Watching Days Bar Chart](path/to/binge_watching_days_chart.png)
+![Binge-Watching Days Bar Chart](visualization/binge_watching_days_by_user.png)
 
 ---
 
@@ -54,7 +54,7 @@ _Bar chart showing the number of binge-watching days for each user._
 - It was mentioned by family members as a relaxing, feel-good show.  
 
 _Bar chart showing favorite shows by user | Bar chart showing binge-watched shows by users._  
-![Favorite and Binge-Watched Shows](path/to/favorite_and_binge_watched_shows.png)
+![Favourite Shows](visualization/top_5_favourite_shows_for_each_user.png)
 
 ---
 
@@ -64,7 +64,7 @@ _Bar chart showing favorite shows by user | Bar chart showing binge-watched show
 - Overall, Netflix messages didn't affect user preferences significantly.  
 
 _Bar Chart: Click-Through Rate (CTR) by Profile | Bar Chart: Influence of Messages on Total Views._  
-![CTR and Message Influence](path/to/ctr_and_message_influence.png)
+![Message Influence](visualization/influence_of_messages.png)
 
 ---
 
