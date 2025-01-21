@@ -1,12 +1,12 @@
 # Netflix Family Usage Analysis
 
-This project explores how a family uses their Netflix account, identifying patterns in viewing habits, binge-watching tendencies, favorite shows, and the effectiveness of Netflix messages. The analysis dives into user behavior and highlights actionable insights.
+This project explores how my family uses their Netflix account, identifying patterns in viewing habits, binge-watching tendencies, favorite shows, and the effectiveness of Netflix messages. The analysis dives into user behavior and highlights actionable insights.
 
 ---
 
 ## Motivation
 
-Have you ever wondered how each family member uses a shared Netflix account?  
+Have you ever wondered how each family member uses a family Netflix account?  
 - **Which profiles are the most active?**  
 - **Who’s the biggest binge-watcher?**  
 - **Which shows are universally loved across the family?**  
